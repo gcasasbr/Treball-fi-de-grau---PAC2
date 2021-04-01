@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1467278980554757394
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1467278980554757392}
+  - component: {fileID: 1467278980554757395}
+  m_Layer: 0
+  m_Name: GameController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1467278980554757392
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1467278980554757394}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 5.188979, y: 0.6777428, z: -16.989258}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1467278980554757395
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1467278980554757394}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17f188a229beb3342987a7e1938cf8fe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  contador: 0
+  ObjectesTocats: []
+  tipus_fruita: 
+  tipus_fruita2: 
+  PrimerObjecteLlista: {fileID: 0}
+  chest: {fileID: 0}
+  punts: 0
+  contador_punts: {fileID: 0}
+  contador_moviments: {fileID: 0}
+  contador_segons: {fileID: 0}
+  ultimObjecte: {fileID: 0}
+  ultimPosicio: {x: 0, y: 0, z: 0}
+  moviments: 0
+  segons: 0
+  scene:
+    m_Handle: 0
+  levelName: 
+  intercanvienProces: 0
+  posicioYestrella: 0
+  ObjectesEnPantalla: []
+  ObjecteAEliminar: 
+  estrellaTocada: 0
+  text1: {fileID: 0}
+  text2: {fileID: 0}
+  text3: {fileID: 0}

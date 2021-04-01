@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6496206027683649966
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6496206027683649964}
+  - component: {fileID: 6496206027683649965}
+  m_Layer: 0
+  m_Name: PosicionarObjectes
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6496206027683649964
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6496206027683649966}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4.207546, y: 0.35996386, z: 20.621323}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6496206027683649965
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6496206027683649966}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9971aed8efc3d444cb367b7b0a9cd303, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  posicioX1Y1: {x: 0, y: 0, z: 0}
+  posicioX1Y2: {x: 0, y: 0, z: 0}
+  posicioX1Y3: {x: 0, y: 0, z: 0}
+  posicioX1Y4: {x: 0, y: 0, z: 0}
+  posicioX1Y5: {x: 0, y: 0, z: 0}
+  posicioX1Y6: {x: 0, y: 0, z: 0}
+  posicioX1Y7: {x: 0, y: 0, z: 0}
+  posicioX1Y8: {x: 0, y: 0, z: 0}
+  posicioX1Y9: {x: 0, y: 0, z: 0}
+  posicioX2Y1: {x: 0, y: 0, z: 0}
+  posicioX2Y2: {x: 0, y: 0, z: 0}
+  posicioX2Y3: {x: 0, y: 0, z: 0}
+  posicioX2Y4: {x: 0, y: 0, z: 0}
+  posicioX2Y5: {x: 0, y: 0, z: 0}
+  posicioX2Y6: {x: 0, y: 0, z: 0}
+  posicioX2Y7: {x: 0, y: 0, z: 0}
+  posicioX2Y8: {x: 0, y: 0, z: 0}
+  posicioX2Y9: {x: 0, y: 0, z: 0}
+  posicioX3Y1: {x: 0, y: 0, z: 0}
+  posicioX3Y2: {x: 0, y: 0, z: 0}
+  posicioX3Y3: {x: 0, y: 0, z: 0}
+  posicioX3Y4: {x: 0, y: 0, z: 0}
+  posicioX3Y5: {x: 0, y: 0, z: 0}
+  posicioX3Y6: {x: 0, y: 0, z: 0}
+  posicioX3Y7: {x: 0, y: 0, z: 0}
+  posicioX3Y8: {x: 0, y: 0, z: 0}
+  posicioX3Y9: {x: 0, y: 0, z: 0}
+  posicioX4Y1: {x: 0, y: 0, z: 0}
+  posicioX4Y2: {x: 0, y: 0, z: 0}
+  posicioX4Y3: {x: 0, y: 0, z: 0}
+  posicioX4Y4: {x: 0, y: 0, z: 0}
+  posicioX4Y5: {x: 0, y: 0, z: 0}
+  posicioX4Y6: {x: 0, y: 0, z: 0}
+  posicioX4Y7: {x: 0, y: 0, z: 0}
+  posicioX4Y8: {x: 0, y: 0, z: 0}
+  posicioX4Y9: {x: 0, y: 0, z: 0}
+  posicioX5Y1: {x: 0, y: 0, z: 0}
+  posicioX5Y2: {x: 0, y: 0, z: 0}
+  posicioX5Y3: {x: 0, y: 0, z: 0}
+  posicioX5Y4: {x: 0, y: 0, z: 0}
+  posicioX5Y5: {x: 0, y: 0, z: 0}
+  posicioX5Y6: {x: 0, y: 0, z: 0}
+  posicioX5Y7: {x: 0, y: 0, z: 0}
+  posicioX5Y8: {x: 0, y: 0, z: 0}
+  posicioX5Y9: {x: 0, y: 0, z: 0}
+  Taronja: {fileID: 1551284085403642465, guid: 91ed388dac7b5014289fac2d0d204e79, type: 3}
+  Tomaquet: {fileID: 492738650733583257, guid: f3341154797c2fd41a562ca5ddb14d8c, type: 3}
+  Fresa: {fileID: 3474063566328473245, guid: c8b55999a5543354babb2010cc981f8b, type: 3}
+  Llimona: {fileID: 4366912370462055831, guid: dd5d08f0284cf974cbed10870226aee5, type: 3}
+  Melo: {fileID: 7693935528286928485, guid: db851b82673045a41bd8acd6af9d0c64, type: 3}
+  EstrellaBlava: {fileID: 2100552610206886275, guid: 1720530df001ca441ba5be7cb65cdc0b,
+    type: 3}
+  BombollaBlava: {fileID: 374928714452398230, guid: 4f6c98a19680d7549812aea30f444dbd,
+    type: 3}
+  Bomba: {fileID: 2101780843294255094, guid: 2ad85ccadb124594888d6ef3bc9bfbcb, type: 3}
+  Cireres: {fileID: 8892196072161507402, guid: 37f1ba1ce517569418e01261dd227ced, type: 3}
+  Caixa: {fileID: 6522504165553860145, guid: 7eb4ffc6c34a9ad46abb9151fe7fa8c9, type: 3}
+  taronjaTancada: {fileID: 6433562521398545863, guid: 447c3cf9cbba29747a6fd2ae2334ced2,
+    type: 3}
+  tomaquetTancat: {fileID: 1585568515758531982, guid: 63aec3e15cbee8b40b2b713b6367c832,
+    type: 3}
+  meloTancat: {fileID: 823951912024820797, guid: 679454fa8832337449a552ee51bbfd23,
+    type: 3}
+  llimonaTancada: {fileID: 8026344252414303982, guid: f0781eb71dcfdb94db76854ed6e429e5,
+    type: 3}
+  sceneActual:
+    m_Handle: 0
+  NomEscena: 

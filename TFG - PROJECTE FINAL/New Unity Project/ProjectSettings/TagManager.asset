@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Tomaquet
+  - Taronja
+  - Fons
+  - Llimona
+  - Fresa
+  - Melo
+  - Llimona2
+  - Estrella
+  - Bombolla
+  - nuvol1
+  - nuvol2
+  - nuvol3
+  - ButoAngles
+  - BotoCatala
+  - BotoCastella
+  - EstrellaDaurada
+  - Bomba
+  - FxTemporaire
+  - Tancat
+  - Torna
+  - Recargar
+  - Terra
+  - Caixa
+  - Boto1
+  - TornaM1
+  - TornaM2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
